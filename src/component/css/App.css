@@ -1,0 +1,29 @@
+.app {
+    width: 100%;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.table {
+    width: 100%;
+}
+
+th.poster {
+    width: 19%;
+}
+
+th.col {
+    width: 9%;
+}
+
+.addMore {
+    text-align: right;
+}
+
+.settle {
+    text-align: right;
+}
+
+.button {
+    width:150px;
+}
